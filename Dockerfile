@@ -1,4 +1,4 @@
-FROM docker.elastic.co/kibana/kibana-oss:6.2.4
+FROM docker.elastic.co/kibana/kibana-oss:6.3.2
 
 MAINTAINER Björn Heneka <heneka@jacob.de>
 
